@@ -1,6 +1,6 @@
 # 🏢 PlanCode — Software House
 
-<img src="/ICONS/LOGO.png" width="200" style="border-radius:50%;" alt="Logo PlanCode">
+<img src="/ICONS/LOGOB.png" width="200" style="border-radius:50%;" alt="Logo PlanCode">
 
 
 ---
