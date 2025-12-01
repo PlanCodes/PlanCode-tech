@@ -8,8 +8,7 @@ Este repositório contém a modelagem do banco de dados do projeto, incluindo o 
 
 ### 🔷 DER (Diagrama Entidade-Relacionamento)
 
-O **DER** foi criado manualmente usando o aplicativo recomendado no processo (ferramenta de diagramas online).  
-Representa entidades, atributos e relacionamentos do sistema.
+O **DER** foi criado manualmente usando o app.diagrams.net.
 
 📎 **Arquivo:** `DER.png`  
 ![DER](DER_Agenda.drawio.png)
